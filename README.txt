@@ -1,0 +1,1 @@
+Hey! Work on your own branches. We merge every week. There won't be anything on the main branch the first week, so do not be afraid of an empty repository (aside from this beautiful README residing there, ofcourse).
